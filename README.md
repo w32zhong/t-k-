@@ -1,5 +1,5 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=t-k-)](https://github.com/t-k-/)
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![GitHub](https://img.shields.io/github/followers/t-k-.svg?lable=GitHub&style=social)](https://github.com/t-k-/)
 <a href="https://github.com/sponsors/t-k-" target="_blank">
